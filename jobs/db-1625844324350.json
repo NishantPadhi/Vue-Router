@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "Java Developer",
+      "id": 1,
+      "details": "lorem"
+    },
+    {
+      "title": "Python Developer",
+      "id": 2,
+      "details": "lorem"
+    },
+    {
+      "title": "JavaScript Developer",
+      "id": 3,
+      "details": "lorem"
+    }
+  ]
+}
